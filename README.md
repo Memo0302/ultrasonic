@@ -1,6 +1,6 @@
 # ultrasonic
 link to tinkercad "https://www.tinkercad.com/things/0yJauF69V69-ultrasonic-/editel"
-
+```
 const int trigPin = 9;
 const int echoPin = 10;
 // defines variables
@@ -33,7 +33,7 @@ void loop() {
   else 
     digitalWrite(8,0);
 }
-
+```
 ![Screenshot 2023-08-05 105131](https://github.com/Memo0302/ultrasonic/assets/92684739/cf1e4cef-bbd5-493b-9a0a-8a79e6ac288f)
 
 
